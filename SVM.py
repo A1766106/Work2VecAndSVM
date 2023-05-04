@@ -1,3 +1,12 @@
+####################################################################################
+##
+##  Disc: My combination of word2vec and svm to develop a machine learning model 
+##  that predicts stock price based on reddit posts on any given day
+##
+##  Credit to the StatQuest YouTube Channel for lots of SVM code
+##
+##
+####################################################################################
 import gensim
 import pandas as pd
 import numpy as np
